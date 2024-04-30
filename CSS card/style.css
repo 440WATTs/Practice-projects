@@ -1,0 +1,59 @@
+body {
+    background-color: gray;
+}
+
+.card {
+    background-color: white;
+    width: 344px;
+    height: 544px;
+    border-radius: 8px;
+}
+
+img {
+    width: 329px;
+    height: 400;
+    border-radius: 13px;
+    padding: 7px;
+}
+
+.content {
+    padding: 0px 20px 20px 20px;
+}
+
+.caps {
+    padding: 18px;
+}
+
+.caps span {
+    border: 1px solid rgb(23, 101, 146);
+    padding: 4px;
+    margin: 4px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    padding: 0 0 18px 0;
+    margin: 0;
+
+}
+
+.content {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.readmore button {
+    padding: 6px;
+    margin: 0px 120px;
+    color: rgb(0, 60, 255);
+    background-color: rgb(173, 250, 246);
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.readmore button:hover {color: rgb(0, 60, 255);
+    background-color: rgb(224, 251, 255);}
